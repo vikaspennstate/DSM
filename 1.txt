@@ -1,0 +1,12 @@
+130.203.16.50,130.203.16.25,130.203.16.35
+R,x,0
+W,x,0,this is data from node 1
+R,x,0
+W,y,0,this is data from node 1
+R,y,0
+R,x,0
+W,z,0,this is data from node 1
+R,z,0
+R,y,0
+R,x,0
+END
